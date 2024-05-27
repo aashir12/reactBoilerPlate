@@ -5,6 +5,8 @@ import { db } from './config';
 
 const { Panel } = Collapse;
 
+//code updated
+
 const App = () => {
   const [data, setData] = useState([]);
 
